@@ -1,6 +1,6 @@
 # Khalid's Go at the Titanic
 
-Work is done at the Jupyter Notebook file in this repository marked as `khalid-go-at-titanic.ipynb.ipynb`
+Work is done at the Jupyter Notebook file in this repository marked as `khalid-go-at-titanic.ipynb`
 
 This problem is from a kaggle competition and it is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. But before that, a little intro about the Titanic:
 
