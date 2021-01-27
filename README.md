@@ -14,5 +14,5 @@ In this project, we will build a predictive model that answers the question: “
 
 
 * submission should be similar to the sample submission
-* `test.csv` and `train.csv.` are available in the repository
+* `test.csv` and `train.csv` are available in the repository
 * competition and submission are at: https://www.kaggle.com/c/titanic/
